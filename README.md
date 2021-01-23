@@ -19,23 +19,30 @@ The data in jupyter notebook pieces together the data of this school district.
 3. Compared the outputs.
 4. Provided further testing possibilities.
 
-### Results from the School District Analysis Challenge
+### Results from updating the School District Analysis to match Deliverable 1
 * How is the district summary affected?
 * How is the school summary affected?
 * How does replacing the ninth graders math and reading scores affect Thomas High School performance relative to the other schools?
 * How does replacing the ninth-grade scores affect the following:
     * Math and reading scores by grade
-      * _Before
-      * _After
+      * Before
+      
+      * After
+      
     * Scores by school spending
-      * _Before
-      * _After
+      * Before
+      
+      * After
+      
     * Scores by school size
-      * _Before
-      * _After
+      * Before
+      
+      * After
+      
     * Scores by school type
-      * _Before
-      * _After
+      * Before
+      
+      * After
       
 ### Conclusions
 
