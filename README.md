@@ -75,20 +75,18 @@ The % of passing students changed significantly when I removed the scores for th
 
 The scores are still similar. They only slightly changed. The more significant changes came from the percentage of students passing in their respective grade levels.
 
-##### How does replacing the ninth-grade scores affect the following:
-    * Math and reading scores by grade:
+#### How does replacing the ninth-grade scores affect the following:
+
+* Math and reading scores by grade:
       All the High Schools have lower grades in the 9th Grade column. This happened because the data from Thomas High School was changed to NaN. It was one of the strategies we learned when dealing with missing data. In this case, I intentionally took out the data to analyze the changes in the School District data.
       
-    * Scores by school spending:
-    
+* Scores by school spending:
      It affects the per student to % passed calculations. The students that had their data changed in the ninth-grade section affected the overall percentage pass rate compared to the school spending data from the PyCitySchools a little. 
      
-    * Scores by school size
-    
+* Scores by school size  
     It affects the % of passing students throughout the dataset. The data suggests that the data changed the passing rates but not the overall scores. The data from the PyCitySchools compared to the PyCityChallenge scores to school size was minscule but still present.
 
-    * Scores by school type
-    
+* Scores by school type
     It affects the % of passing students throughout the dataset. The data suggests that the data changed the passing rates but not the overall scores. 
 
 
