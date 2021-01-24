@@ -20,7 +20,34 @@ The data in jupyter notebook pieces together the data of this school district.
 4. Provided further testing possibilities.
 
 ### Results from updating the School District Analysis to match Deliverable 1
+
+In the first PyCitySchools python file, the ninth-grade reading and math scores for Thomas High School have not been changed. The data in that file remains as it was inputted. For the data in the PyCitySchool Challenge file, the ninth-grade reading and math scores for Thomas High School have been changed to 'NaN'. 
+
 * How is the district summary affected?
+
+*The code:*
+'<# Create a District Summary DataFrame
+district_summary_df = pd.DataFrame(
+          [{"Total Schools": school_count, 
+          "Total Students": student_count, 
+          "Total Budget": total_budget,
+          "Average Math Score": average_math_score, 
+          "Average Reading Score": average_reading_score,
+          "% Passing Math": passing_math_percentage,
+         "% Passing Reading": passing_reading_percentage,
+        "% Overall Passing": overall_passing_percentage}])>'
+      
+*Output PyCityModules:*
+
+Insert photo
+
+*Output PyCityChallenge:*
+
+Insert photo
+       
+The overall percentage of passing students decreased in the PyCityChallenge file. Thomas High School ninth-graders didn't score as well as the rest of the district in reading or math. I only compared the test scores because it was the only aspect of the data changed from the PyCity Modules and the Challenge.
+
+
 * How is the school summary affected?
 * How does replacing the ninth graders math and reading scores affect Thomas High School performance relative to the other schools?
 * How does replacing the ninth-grade scores affect the following:
