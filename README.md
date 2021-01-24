@@ -26,8 +26,8 @@ In the first PyCitySchools python file, the ninth-grade reading and math scores 
 * How is the district summary affected?
 
 *The code:*
-
-'<# Create a District Summary DataFrame>'
+```
+# Create a District Summary DataFrame
 district_summary_df = pd.DataFrame(
           [{"Total Schools": school_count, 
           "Total Students": student_count, 
@@ -36,18 +36,17 @@ district_summary_df = pd.DataFrame(
           "Average Reading Score": average_reading_score,
           "% Passing Math": passing_math_percentage,
          "% Passing Reading": passing_reading_percentage,
-        "% Overall Passing": overall_passing_percentage}])>'
-      
+        "% Overall Passing": overall_passing_percentage}])
+```   
 *Output PyCityModules:*
 
-Insert photo
+![PYCITYMODULE](Desktop/Education/columbia/Coding/Data_Science_Bootcamp/Columbia_Module_4/School_District_Analysis/Resources/PyCitySchools.png)
 
 *Output PyCityChallenge:*
 
-Insert photo
+![PYCITYMODULE](Desktop/Education/columbia/Coding/Data_Science_Bootcamp/Columbia_Module_4/School_District_Analysis/Resources/PyCityChallenge.png)
        
 The overall percentage of passing students decreased in the PyCityChallenge file. Thomas High School ninth-graders didn't score as well as the rest of the district in reading or math. I only compared the test scores because it was the only aspect of the data changed from the PyCity Modules and the Challenge.
-
 
 * How is the school summary affected?
 * How does replacing the ninth graders math and reading scores affect Thomas High School performance relative to the other schools?
