@@ -40,11 +40,11 @@ district_summary_df = pd.DataFrame(
 ```   
 *Output PyCityModules:*
 
-![PYCITYMODULE](Desktop/Education/columbia/Coding/Data_Science_Bootcamp/Columbia_Module_4/School_District_Analysis/Resources/PyCitySchools.png)
+![PyCitySchools](/Desktop/Education/columbia/Coding/Data_Science_Bootcamp/Columbia_Module_4/School_District_Analysis/Resources/PyCitySchools.png)
 
 *Output PyCityChallenge:*
 
-![PYCITYMODULE](Desktop/Education/columbia/Coding/Data_Science_Bootcamp/Columbia_Module_4/School_District_Analysis/Resources/PyCityChallenge.png)
+![PyCityChallenge](/Desktop/Education/columbia/Coding/Data_Science_Bootcamp/Columbia_Module_4/School_District_Analysis/Resources/PyCityChallenge.png)
        
 The overall percentage of passing students decreased in the PyCityChallenge file. Thomas High School ninth-graders didn't score as well as the rest of the district in reading or math. I only compared the test scores because it was the only aspect of the data changed from the PyCity Modules and the Challenge.
 
