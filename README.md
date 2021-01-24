@@ -26,7 +26,8 @@ In the first PyCitySchools python file, the ninth-grade reading and math scores 
 * How is the district summary affected?
 
 *The code:*
-'<# Create a District Summary DataFrame
+
+'<# Create a District Summary DataFrame>'
 district_summary_df = pd.DataFrame(
           [{"Total Schools": school_count, 
           "Total Students": student_count, 
