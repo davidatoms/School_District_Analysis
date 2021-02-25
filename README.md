@@ -2,7 +2,8 @@
 
 ###### Written by: David Adams
 ###### Written on: January 22, 2021
-###### Python, Pandas, Jupyter Notebook
+###### Written with: Python, Pandas, Jupyter Notebook
+###### Written for: Columbia University Module 4
 
 ### Overview of the School District Analysis project
 - [X] Deliverable 1: Replace ninth-grade reading and math scores for Thomas High School
